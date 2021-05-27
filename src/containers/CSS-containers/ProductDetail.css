@@ -1,0 +1,27 @@
+.bigContainer2{
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+    flex-direction: row;
+    margin-top: 100px;
+}
+
+.imgContainer1{
+    width: 400px;
+    height: 500px;
+    
+
+}
+.onlyProduct1{
+    width: 500px;
+    height: auto;
+    max-height: 650px;
+}
+.flex2{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
+.input1 {
+    width: 60px;
+}

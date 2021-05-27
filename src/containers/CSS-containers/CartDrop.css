@@ -1,0 +1,22 @@
+.container1{
+    position: absolute;
+    top: 80px;
+    min-width: 300px;
+    padding: 20px;
+    background-color: royalblue;
+    border: 1px solid black;
+    border-radius: 4px;
+    left: 1100px;
+}
+.xFlex{
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row;
+}
+.BsDrop{
+    background-color:grey;
+    border-radius: 9px;
+    cursor: pointer;
+}
